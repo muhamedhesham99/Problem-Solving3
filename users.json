@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "ali",
+    "age": 25,
+    "email": "ali@g.com",
+    "is_active": true
+  },
+  {
+    "id": 2,
+    "name": "farid",
+    "age": 25,
+    "email": "farid@g.com",
+    "is_active": true
+  },
+  {
+    "id": 4,
+    "name": "hassan",
+    "age": 33,
+    "email": "hassan@g.com",
+    "is_active": true
+  }
+]
